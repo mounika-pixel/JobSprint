@@ -18,9 +18,3 @@ JobSprint is a centralized job aggregator platform that fetches real-time listin
 
 live link: https://jobsprint.infinityfreeapp.com/auth/login.html
 
-## 📦 Installation
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/PranathiNagisetti/JobSprint.git
-cd JobSprint
